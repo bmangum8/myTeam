@@ -6,3 +6,4 @@ const teammatesNames = () => {
     console.log("Zach S")
     console.log("Zach R")
 }
+teammatesNames()
