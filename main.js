@@ -8,4 +8,4 @@ const teamPets = () => {
     console.log("Brittany has 2 cats named Humo and Pepper")
 }
 
-teamPets
+teamPets()
