@@ -7,3 +7,5 @@ const teamPets = () => {
     console.log("Zach R dog named Viola")
     console.log("Brittany has 2 cats named Humo and Pepper")
 }
+
+teamPets
