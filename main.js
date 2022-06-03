@@ -7,3 +7,5 @@ const teamColors = () => {
     console.log("Brittany's favorite color is blue")
     console.log("Andrew's favorite color is orange")
 }
+
+teamColors()
