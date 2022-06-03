@@ -1,4 +1,12 @@
+/*  Adds CSS for the background, 
+and sets a font color for all H1 tags, 
+sets a global font on the body */
+
 body {
     background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h1 {
     color: blue;
 }
